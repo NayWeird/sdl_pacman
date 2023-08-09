@@ -1,0 +1,33 @@
+30 32
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x             xx             x
+x ............xx ............x
+x .xxx .xxxx .xx .xxxx .xxx .x
+x .xxx .xxxx .xx .xxxx .xxx .x
+x .    .     .   .     .    .x
+x ...........................x
+x .xxx .x .xxxxxxxx .x .xxx .x
+x .    .x .   xx    .x .    .x
+x ......x ....xx ....x ......x
+xxxxxx .xxxx  xx  xxxx .xxxxxx
+xxxxxx .x     r      x .xxxxxx
+xxxxxx .x            x .xxxxxx
+xxxxxx .x  xxxddxxx  x .xxxxxx
+       .   xc p o x    .      
+       .   x      x    .      
+xxxxxx .x  xxxxxxxx  x .xxxxxx
+xxxxxx .x            x .xxxxxx
+xxxxxx .x            x .xxxxxx
+xxxxxx .x  xxxxxxxx  x .xxxxxx
+x      .      xx       .     x
+x ............xx ............x
+x .xxx .xxxx .xx .xxxx .xxx .x
+x .  x .     .y  .     .x   .x
+x ...x .......   .......x ...x
+xxx .x .x .xxxxxxxx .x .x .xxx
+x   .  .x .   xx    .x .  .  x
+x ......x ....xx ....x ......x
+x .xxxxxxxxx .xx .xxxxxxxxx .x
+x .          .   .          .x
+x ...........................x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
